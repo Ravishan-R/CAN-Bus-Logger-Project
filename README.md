@@ -35,6 +35,7 @@ This project is a hands-on implementation of a CAN Bus Data Logger and Vehicle N
   Implement data persistence and historical analysis
 
 🛠️ Technical Objectives
+
 Layer	      Technology	            Goal
 Hardware	  ESP32, MCP2515	        Stable CAN communication at 500kbps
 Firmware	  Arduino/C, ESP-IDF	    Send/receive CAN frames, simulate ECUs
